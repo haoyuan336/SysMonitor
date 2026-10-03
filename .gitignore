@@ -1,0 +1,13 @@
+# 构建产物
+bin/
+obj/
+dist/
+
+# Visual Studio 用户文件
+*.user
+*.suo
+.vs/
+
+# 临时测试文件
+s*.png
+*.log
